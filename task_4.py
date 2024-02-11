@@ -1,3 +1,4 @@
+
 comands = {'hello':'hello (cmd)', 
            'add':'create a new contact', 
            'change':'change the contact', 
